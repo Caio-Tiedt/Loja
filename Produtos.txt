@@ -1,0 +1,6 @@
+Carne,1,2.12
+Leite,32,4.42
+Arroz,4,3.12
+Agua mineral Lindoya,10,0.99
+Coca,1,4.99
+Pipoca,2,4.12
